@@ -1,0 +1,25 @@
+Permissions
+
+Ubuntu 18.04
+
+sudo chmod +x md_atp_installtion_18.04.sh
+
+
+Ubuntu 20.04
+
+sudo chmod +x md_atp_installtion_20.04.sh
+
+Execute
+
+Ubuntu 18.04
+
+sudo sh md_atp_installtion_18.04.sh
+
+Ubuntu 20.04
+
+sudo sh md_atp_installtion_20.04.sh
+
+
+check the installation ststus using below command.
+mdatp --help   
+mdatp  health
